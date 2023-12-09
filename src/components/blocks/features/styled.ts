@@ -2,17 +2,17 @@ import styled from 'styled-components';
 import Ul from '../../../elements/ul';
 
 const StyledFeatures = styled.div`
-  /* padding: 35px 0 35px; */
-  padding: 35px 0 100px;
+  padding: 35px 0 35px;
+  /* padding: 35px 0 100px; */
 
   @media screen and (min-width: ${(props) => props.theme.tabletWidth}) {
-    /* padding: 50px 0 45px; */
-    padding: 50px 0 200px;
+    padding: 50px 0 45px;
+    /* padding: 50px 0 200px; */
   }
 
   @media screen and (min-width: ${(props) => props.theme.macWidth}) {
-    /* padding: 75px 0 65px; */
-    padding: 75px 0 300px;
+    padding: 75px 0 65px;
+    /* padding: 75px 0 300px; */
   }
 `;
 
