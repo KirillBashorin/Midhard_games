@@ -1,0 +1,185 @@
+{
+  "header": {
+    "button": "Menu",
+    "items": {
+      "0": "Our works",
+      "1": "Services",
+      "2": "About us",
+      "3": "Partners",
+      "4": "Reviews",
+      "5": "Contacts"
+    }
+  },
+  "main": {
+    "hero": {
+      "title": {
+        "first_part": "Custom ",
+        "second_part": "game ",
+        "third_part": "development"
+      },
+      "subtitle": "Full cycle development and project operation.\nLeave a request for a project discussion and consultation",
+      "button": "Get an estimate"
+    },
+    "our_works": {
+      "title": "Our works",
+      "tabs": {
+        "0": {
+          "title": "PC Games",
+          "content": {
+            "0": {
+              "title": "Adrenaline Rampage",
+              "description": "Roguelike-survival with amazing graphics. Everyone who likes adrenaline, zombies, perks and sci-fi will like it"
+            },
+            "1": {
+              "title": "Fatalzone",
+              "description": "Auto-shooter with RPG and roguelike elements in the world of post-apocalypse. Destroy hordes of zombies, extract resources, strengthen your base and upgrade your mercenaries"
+            },
+            "2": {
+              "title": "Bomber World",
+              "description": "A competitive PVP game in the real-time battle royal genre, set in a realistic setting"
+            },
+            "3": {
+              "title": "Quasar Force",
+              "description": "This is a competitive PvP-MOBA, the action of which takes place in open space. Your main goal is to become the best among pilots from all over the world"
+            },
+            "4": {
+              "title": "Project 14",
+              "description": "Eexperimental Shoot'em up platformer"
+            }
+          }
+        },
+        "1": {
+          "title": "Mobile games",
+          "content": {
+            "0": {
+              "title": "TriPeaks Cards: Solitaire",
+              "description": "A brand new solitaire game full of fun puzzles, lots of levels with cool graphics and adventure atmosphere"
+            }
+          }
+        },
+        "2": {
+          "title": "Web3 projects",
+          "content": {
+            "0": {
+              "title": "WarQube",
+              "description": "A cooperative 3D video game based on blockchain technology and combining Tower Defense, isometric shooter and MOBA genres"
+            },
+            "1": {
+              "title": "Big forge games",
+              "description": "A revolutionary gaming platform built on blockchain technology. Its ecosystem combines crypto industry trends such as NFT, GameFi, Metaverse, Web3"
+            }
+          }
+        },
+        "3": {
+          "title": "Web games"
+        }
+      }
+    },
+    "services": {
+      "title": "Services",
+      "subtitle": "We connect to your project at any stage of development and provide the following services",
+      "items": {
+        "0": {
+          "title": "Full cycle \n development",
+          "text": "End-to-end turnkey development from idea to release"
+        },
+        "1": {
+          "title": "Writing \n GDD",
+          "text": "Formation of game-design documentation and ToRs required for project development and realization"
+        },
+        "2": {
+          "title": "Creation 3d/2d \n assets",
+          "text": "Developing visual content to integrate into your game"
+        },
+        "3": {
+          "title": "LiveOps",
+          "text": "The project release is the beginning. It's time to closely monitor metrics, make changes quickly, test different hypotheses, and develop updates"
+        }
+      }
+    },
+    "about_us": {
+      "title": "About us",
+      "subtitle": "We have been developing custom games for mobile devices and desktops since 2015. Our portfolio consists of games of different complexity and genres - from hyper casual and browser games to midcore projects in 2D and 3D graphics.",
+      "persons": {
+        "0": {
+          "name": "Ilya Boytsov"
+        },
+        "1": {
+          "name": "Andrei Belousov"
+        },
+        "2": {
+          "name": "Dmitry Zhuravlev"
+        }
+      }
+    },
+    "features": {
+      "items": {
+        "0": {
+          "text": "employees\naround the world"
+        },
+        "1": {
+          "text": "years\nof experience"
+        },
+        "2": {
+          "text": "realized\nprojects"
+        }
+      }
+    }
+  },
+  "footer": {
+    "privacy": "Privacy policy",
+    "developed": "developed by ",
+    "form": {
+      "title": "Ready to discuss the project?",
+      "subtitle": "Leave a request for a free consultation"
+    }
+  },
+  "callback_form": {
+    "name": "Name",
+    "email": "Email",
+    "privacy_text": "By leaving your contact information, you agree to our ",
+    "privacy_link": "privacy policy.",
+    "button_submit": "Get an estimate",
+    "button_close": "Close window",
+    "alert": "Your application has been successfully sent. We will contact you shortly"
+  },
+  "callback_widget": {
+    "title": "Leave your phone number and we'll get back to you",
+    "phone": "Enter your phone number.",
+    "button_submit": "Call me",
+    "alert": "Your application has been successfully submitted. We will get back to you shortly",
+    "button_close": "Close window",
+    "bottom_text": "Or you can call us yourself"
+  },
+  "privacy": {
+    "title": "Privacy policy",
+    "subtitle": "This document «Privacy Policy» (hereinafter referred to as «Policy») is the rules for the use of /specify site owner/ (hereinafter referred to as «we» and/or «Administration») data of Internet users (hereinafter referred to as «you» and/or «User») collected using the website /specify site URL/ (hereinafter referred to as «Site»).",
+    "1": "1.Processed data",
+    "1_1": "1.1 We do not collect your personal data through the use of the Site.",
+    "1_2": "1.2 All data collected on the Site is provided and accepted in an anonymized form («Anonymized Data»).",
+    "1_3": "1.3 Anonymized data includes the following information that does not allow you to be identified:",
+    "1_3_1": "1.3.1. Information that you provide about yourself using the online forms and program modules of the Site, including your name and phone number and/or e-mail address.",
+    "1_3_2": "1.3.2 Data that is transmitted in an anonymized form automatically depending on the settings of the software you use.",
+    "1_4": "1.4 The Administration has the right to set requirements to the composition of the User's anonymized data, which are collected by using the Site.",
+    "1_5": "1.5 If certain information is not marked as mandatory, its provision or disclosure is at the discretion of the User. At the same time, you give your informed consent for access to such data by an unlimited number of persons. The said data becomes publicly available from the moment it is provided and/or otherwise disclosed.",
+    "1_6": "1.6 The Administration does not verify the accuracy of the data provided and whether the User has the necessary consent for their processing in accordance with this Policy, believing that the User acts in good faith, prudently and makes all necessary efforts to keep such information up to date and obtain all necessary consents for its use.",
+    "1_7": "1.7. You realize and accept the possibility of using third party software on the Website, as a result of which such persons may receive and transmit the data specified in clause 1.3 in an anonymized form. Example! The said third party software includes the systems of collecting statistics of visits by Google Analytics and Yandex.Metrica.",
+    "1_8": "1.8 The composition and conditions of anonymized data collection using third party software are determined directly by their right holders and may include: browser data (type, version, cookie); device data and its location; operating system data (type, version, screen resolution); request data (time, source of transition, IP address).",
+    "1_9": "1.9 The Administration is not responsible for the order of use of the User's anonymized data by third parties. Ready-made solution for your business Package of documents for the site Documents for popular models of Internet services. Guarantee of limitation of liability and tax purity. Read the solution",
+    "2": "2. Objectives of data processing",
+    "2_1": "2.1 The Administration shall use the data for the following purposes:",
+    "2_1_1": "2.1.1 Processing incoming requests and communications with the User;",
+    "2_1_2": "2.1.2 Information service, including mailing of advertising and information materials;",
+    "2_1_3": "2.1.3 Conducting marketing; statistical and other research;",
+    "2_1_4": "2.1.4 Targeting of advertising materials on the Website",
+    "3": "3. data protection requirements",
+    "3_1": "3.1. The Administration shall store data and protect it from unauthorized access and dissemination in accordance with internal rules and regulations.",
+    "3_2": "3.2. The data received is kept confidential, except when it is made publicly available by the User, as well as when the technologies and software of third parties used on the Site or the settings of the software used by the User provide for an open exchange with these persons and/or other participants and users of the Internet.",
+    "3_3": "3.3. In order to improve the quality of work, the Administration has the right to store log files on the actions performed by the User within the framework of using the Site for 1 (One) year.",
+    "4": "4. Data Transfer",
+    "4_1": "4.1. Administration has the right to transfer data to third parties in the following cases: The User has expressed his/her consent to such actions, including cases when the User applies the settings of the software used by the User, which do not limit the provision of certain information;The transfer is required as part of the User's use of the functional capabilities of the Site; The transfer is required in accordance with the purposes of data processing; In connection with the transfer of the Site into the possession, use or ownership of such third party; At the request of a court or other authorized state body within the procedure established by law; To protect the rights and legitimate interests of the Administration in connection with violations committed by the User.",
+    "5": "5. Modification of Privacy Policy",
+    "5_1": "5.1 This Policy may be changed or terminated unilaterally by the Administration without prior notice to the User. The new version of the Policy comes into force from the moment of its posting on the Website, unless otherwise provided by the new version of the Policy.",
+    "5_2": "5.2 The current version of the Policy is available on the Website on the Internet at.The current version of the Policy dated 05.10.2023."
+  }
+}
